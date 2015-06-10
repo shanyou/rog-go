@@ -1,7 +1,7 @@
 package main
 
 import (
-	"9fans.net/go/acme"
+	"github.com/shanyou/go/acme"
 	"fmt"
 	"io"
 	"os"
